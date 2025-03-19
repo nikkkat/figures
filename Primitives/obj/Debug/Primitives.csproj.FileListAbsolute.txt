@@ -1,0 +1,10 @@
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\bin\Debug\Primitives.exe.config
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\bin\Debug\Primitives.exe
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\bin\Debug\Primitives.pdb
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\obj\Debug\Primitives.csproj.AssemblyReference.cache
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\obj\Debug\Primitives.Form1.resources
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\obj\Debug\Primitives.Properties.Resources.resources
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\obj\Debug\Primitives.csproj.GenerateResource.cache
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\obj\Debug\Primitives.csproj.CoreCompileInputs.cache
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\obj\Debug\Primitives.exe
+D:\4sem\ootpisp\lab1_primit\Primitives\Primitives\obj\Debug\Primitives.pdb

@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|d:\\4sem\\ootpisp\\lab1_primit\\primitives\\primitives\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\displayobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\displayobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\primitives\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E7D924-DC43-4B92-8398-013C1835C389}|Primitives\\Primitives.csproj|solutionrelative:primitives\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Game.cs",
+              "RelativeDocumentMoniker": "Primitives\\Game.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Game.cs",
+              "RelativeToolTip": "Primitives\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:10:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Line.cs",
+              "RelativeDocumentMoniker": "Primitives\\Line.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Line.cs",
+              "RelativeToolTip": "Primitives\\Line.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T17:44:07.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Form1.cs",
+              "RelativeDocumentMoniker": "Primitives\\Form1.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Primitives\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:45:29.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Form1.cs",
+              "RelativeDocumentMoniker": "Primitives\\Form1.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Form1.cs",
+              "RelativeToolTip": "Primitives\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:48:04.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Primitives\\Rectangle.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Rectangle.cs",
+              "RelativeToolTip": "Primitives\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:54:04.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameField.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\GameField.cs",
+              "RelativeDocumentMoniker": "Primitives\\GameField.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\GameField.cs",
+              "RelativeToolTip": "Primitives\\GameField.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwFAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:45:04.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayObject.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\DisplayObject.cs",
+              "RelativeDocumentMoniker": "Primitives\\DisplayObject.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\DisplayObject.cs",
+              "RelativeToolTip": "Primitives\\DisplayObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:59:35.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ellipse.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Ellipse.cs",
+              "RelativeDocumentMoniker": "Primitives\\Ellipse.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Ellipse.cs",
+              "RelativeToolTip": "Primitives\\Ellipse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T18:32:09.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Square.cs",
+              "RelativeDocumentMoniker": "Primitives\\Square.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Square.cs",
+              "RelativeToolTip": "Primitives\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:33:55.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Circle.cs",
+              "RelativeDocumentMoniker": "Primitives\\Circle.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Circle.cs",
+              "RelativeToolTip": "Primitives\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:54:48.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Triangle.cs",
+              "RelativeDocumentMoniker": "Primitives\\Triangle.cs",
+              "ToolTip": "D:\\4sem\\ootpisp\\lab1_primit\\Primitives\\Primitives\\Triangle.cs",
+              "RelativeToolTip": "Primitives\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:43:11.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
